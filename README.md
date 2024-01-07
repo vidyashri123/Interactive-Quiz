@@ -30,3 +30,8 @@ You can customize these instructions to match your specific project and any addi
 
 
 
+![JavaScript Quiz App - Personal - Microsoft​ Edge Beta 07-01-2024 09_14_08](https://github.com/vidyashri123/Interactive-Quiz/assets/116086874/1a21294f-89b2-4d91-87d1-83f6fa1b3947)
+
+
+![JavaScript Quiz App - Personal - Microsoft​ Edge Beta 07-01-2024 09_17_11](https://github.com/vidyashri123/Interactive-Quiz/assets/116086874/dc5fc665-a2b2-4ee8-8e29-940456bb0235)
+
